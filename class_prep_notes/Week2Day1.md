@@ -21,7 +21,7 @@ Week2 Day1
 3. apply basics to augment lib.css with own stylesheet (app.css)
 
 
-#Class Lecture Notes per slides
+#1st Class Lecture Notes per slides
 
 ##Overrideing browser defaults
 + Basic idea is to overwrite the browser defualt styling.
@@ -76,7 +76,7 @@ Week2 Day1
 + Class, i.e. <p class="main"> = 10 pts
 + ID, i.e. <p id="time-now"> = 100 pts
 
-##What can you cahnge?
+##What can you change?
 + Short answer = EVERYTHING!
 
 ##Text/Font properties
@@ -108,3 +108,8 @@ img {
 
 #THE END! 
 #ANY QUESTIONS?
+
+
+#2nd Class Lecture Notes per Tutorial work - "Code Breakout"
+
+
