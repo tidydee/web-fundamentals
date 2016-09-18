@@ -112,4 +112,114 @@ img {
 
 #2nd Class Lecture Notes per Tutorial work - "Code Breakout"
 
+##classes
+##IDs
+##Pseudo classes, i.e. hover state, focus state, unvisited state, visted state
++ Let's Google CSS Pseudo-Clases and see what we get...
+
+```css
+img:hover {
+  height: 200px;
+}
+```
+## First Child Pseudo Class
+```css
+p:first-child {
+  font-size: 40px;
+}
+```
+
+## Nth Child Pseudo Class
+```css
+p:nth-child(2) {
+  font-size: 20px;
+  color: blue;
+}
+```
+
+```css
+p:nth-child(even) {
+  font-size: 10px;
+  color: gtreen;
+}
+```
+
+##Transitions in CSS
+```css
+img {
+  margin: 20px;
+  border-radius: 10px;
+  border 2px solid red;
+  padding: 20px 10px 20px 10px;
+  padding-top: 40px;
+  transition: height 3s;
+}
+```
+```css
+img {
+  margin: 20px;
+  border-radius: 10px;
+  border 2px solid red;
+  padding: 20px 10px 20px 10px;
+  padding-top: 40px;
+  transition: height 3s, width 6s;
+}
+```
+```css
+img {
+  margin: 20px;
+  border-radius: 10px;
+  border 2px solid red;
+  padding: 20px 10px 20px 10px;
+  padding-top: 40px;
+  transition: height 3s, ease-in 4s;
+}
+```
+
+```css
+div img {
+  margin: 20px;
+  border-radius: 10px;
+  border 2px solid red;
+  padding: 20px 10px 20px 10px;
+  padding-top: 40px;
+  transition: height 3s, ease-in 4s;
+}
+```
+## Google CSS Transforms
+
+```css
+div p {
+  color: green;
+  transition: transform 3s;
+}
+
+div p:hover {
+  transform: scale(2);
+}
+```
+
+```css
+img {
+  margin: 20px;
+  border-radius: 10px;
+  border 2px solid red;
+  padding: 20px 10px 20px 10px;
+  padding-top: 40px;
+  transition: transform 4s, height 4s;
+}
+
+img:hover {
+  //height:200px
+  *height:200px
+  transform: rotate(90deg);
+}
+```
+
+
+
+
+
+
+
 
