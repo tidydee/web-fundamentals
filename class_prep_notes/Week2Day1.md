@@ -206,13 +206,22 @@ img {
   border 2px solid red;
   padding: 20px 10px 20px 10px;
   padding-top: 40px;
-  transition: transform 4s, height 4s;
+  transition: height 3s, ease-in 4s;
 }
 
 img:hover {
   //height:200px
   *height:200px
   transform: rotate(90deg);
+}
+
+img {
+  margin: 20px;
+  border-radius: 10px;
+  border 2px solid red;
+  padding: 20px 10px 20px 10px;
+  padding-top: 40px;
+  transition: transform 4s, height 4s;
 }
 ```
 
