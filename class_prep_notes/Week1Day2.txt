@@ -1,0 +1,87 @@
+Week1Day2
+=========
+To share after class:
+  :Slides
+  :Code that we wrote together
+  :Video
+
+Class Topics:
+  :How do web pages work?
+  :HTML Elements / boxes!
+  :Different kinds of elements
+  :Anatomy of a HTML Tag
+  :Common tags & variations
+  :Nesting and indenting your code
+  :Major sections of an HTML page
+  :An HTML document's skeleton
+  :Semantic HTML
+  :Describing text
+  :Browser defaults for Styling
+
+Today’s objectives:
+  :Download starter App
+  :Learn HTML basics
+  :Build first page
+  :Apply pre-made styles
+
+
+
+What is a web page?
+  - A Cluster of boxes
+  - Each box is an element on the page
+  
+  - Different types of Elements/Tags
+    - Give little code DEMO:
+      :Create HTML doc,head,body
+      :Add title,paragraph
+      :inspect code with Chrome DevTools
+      :plain text vs. <p> tag text
+  - GO through different types of elements
+    :header,footer,body,section,paragraph,etc.
+    :div
+    :nested tags
+    :h1,h2,h3,h4,h5,h6
+    :common tags
+    :self closing tags 
+      :img, etc
+
+  - Common Tags ("slide")
+
+  - Anatomy of a Tag
+    - Give DEMO
+      : <a>anchor tag in <p> paragraph tag <p> <a></a> </p>
+      :img tag in between anchor tag <a> <img> </a>
+      :explains comments
+
+  - Tag variants ("SLIDE")
+  - Anatomy of an HTML page
+  - HTML Browser Parser Reads from top to bottom
+  - Go Over HTML Skeleton
+  - Sematic Tags
+    - Explain
+  - Finish Slides.
+End
+
+
+**SETUP FINSTAGRAM
+**HTML Intro - Your First Page!
+**END
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
