@@ -21,8 +21,7 @@ Week2 Day1
 3. apply basics to augment lib.css with own stylesheet (app.css)
 
 
-Class Lecture Notes per slides
-------------------------------
+#Class Lecture Notes per slides
 
 ##Overrideing browser defaults
 + Basic idea is to overwrite the browser defualt styling.
