@@ -1,0 +1,25 @@
+class Vehicle
+  
+  def initialize(passangers, wheels, color)
+    @passangers = passangers
+    @wheels = wheels
+    @color = color
+  end
+
+  def get_passengers
+    @passangers
+  end
+
+  def get_wheels
+    @wheels
+  end
+
+  def color
+    @color
+  end
+
+  def move
+    "on the move"
+  end
+
+end

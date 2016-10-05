@@ -53,9 +53,12 @@ The use of the uncapitalized model name pluralized or not is important. `ActiveR
   user = post.user
 ```
 
-**Lecture video**: https://drive.google.com/open?id=0BxH5VCrHXZ9JV2liSXozX3hDdGc
 
 **Lecture slides**: https://drive.google.com/open?id=1-fvTzbD7iuYAV3ROkL71ZatYzPlixGK_FW1Il08Jsa4
+
+**Lecture video**: https://drive.google.com/open?id=0B6jyzd9aAZ5NYnpVQUtHdVRvUEU
+
+**Tutorial video**: https://drive.google.com/open?id=0B6jyzd9aAZ5NeW5hTF82ZHJzYlU 
 
 **ActiveRecord Documentation**: http://guides.rubyonrails.org/active_record_basics.html
 
