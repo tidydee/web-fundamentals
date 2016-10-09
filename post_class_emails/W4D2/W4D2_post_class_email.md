@@ -74,9 +74,11 @@ You can also call the .valid? method to check if your object is valid (this meth
 
 The are different types of validations; a range for a number, number of characters in a string etc... More validation options here: http://guides.rubyonrails.org/active_record_validations.html
 
-**Lecture video**: https://drive.google.com/open?id=0BxH5VCrHXZ9JQjR4SEhyXzExMHM
-
 **Lecture slides**: https://drive.google.com/open?id=1GZR8luxpEKymNofF8zn9Ue9zQrpE8H-5oseOJiQyXG0
+
+**Lecture video**: https://drive.google.com/open?id=0B6jyzd9aAZ5NWlBxY3dUcjV1T1U
+
+**Class Tutorial**: https://drive.google.com/open?id=0B6jyzd9aAZ5NR1cxbER4amhkVk0
 
 **Different types of input fields**: http://html5doctor.com/html5-forms-input-types/ http://www.w3schools.com/html/html_form_input_types.asp
 
