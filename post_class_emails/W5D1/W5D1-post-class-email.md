@@ -36,9 +36,22 @@ To `logout`, we just need to clear the session and set the `user_id` value to **
   session[:user_id] = nil
 ```
 
-Lecture slides: 
+In class I also showed you a little CSS trick for getting rid of the bullet point(s) on **empty/error** messages deriving from the `<ul> <li>`. You can use the _**inline-css**_ as shown below:
 
-Lecture video: 
+```html
+  <ul>
+        <li class="form-group" style="list-style-type: none; color: red;"> <%= @error_message %> </li>
+    </ul>
+```
+OR, the better way would be to to it this way:
+
+```html
+  <p style="color: red;"> <%= @error_message if   @error_message %> <p>
+```
+
+**Lecture slides**: https://drive.google.com/open?id=1PJnkWX38tz3a8eOPH9k1qZ6flCgMlhK55TPbhXN8VxQ
+
+**Lecture video**: https://drive.google.com/open?id=0B6jyzd9aAZ5NQUUyNG1mRDZybnc
 
 On Wednesday, we will give the ability to users to create a post.
 

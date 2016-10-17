@@ -36,9 +36,11 @@ We are not done DRYing up our code, partials can help us go even further. A part
 
 ```
 
-Lecture slides: 
+Lecture slides: https://drive.google.com/open?id=1FCoiLbKrZdLvNZGEgWtPMcwHV3pachBRcgNUL3JLzJQ
 
-Lecture video: 
+Lecture video: https://drive.google.com/open?id=0B6jyzd9aAZ5NdVhLQnZWMkpuNFk
+
+Tut Breakout Video: https://drive.google.com/open?id=0B6jyzd9aAZ5NbS16Y0U0RlZfWjA
 
 If you would like some stretch goals, try to implement likes and comments.
 
