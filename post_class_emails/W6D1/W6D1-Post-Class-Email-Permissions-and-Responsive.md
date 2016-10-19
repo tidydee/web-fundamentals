@@ -48,9 +48,11 @@ We also talked about responsive design and how important it is to make sure that
 
 Here, we want to hide the element (probably a picture) with the class `photo` when the browser's width is 600px or less.
 
-Lecture slides: https://drive.google.com/open?id=1GrfYgkod9Y-mm1Hld-F5lzmumBTPWTBKZtsPg_cwTbk
+**Lecture slides**: https://drive.google.com/open?id=1GrfYgkod9Y-mm1Hld-F5lzmumBTPWTBKZtsPg_cwTbk
 
-Lecture video: 
+**Lecture video**: https://drive.google.com/open?id=0B6jyzd9aAZ5NSmdkcGxxYW8xX0k
+
+**Class Tut Breakout**: https://drive.google.com/open?id=0B6jyzd9aAZ5NRF9rMzVhZzN1TGM 
 
 In the tutorial, you will implement comments and likes. If you want an extra challenge, try to give the ability to a user to edit a post they created. You will need to create a form to which a user could get to from a button or a link. You will need another action to receive and process the form's data. You could also practise with before filters and make sure a user cannot access the edit form of a post they didn't create.
 
